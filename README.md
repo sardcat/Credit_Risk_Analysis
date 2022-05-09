@@ -5,3 +5,6 @@ Resampling data with `imbalanced-learn` and `scikit-learn` libraries to build, e
 
 ## Results
 
+Figure 1.) Oversampling with `RandomOverSampler`
+
+![](Resources/Fig1.png)
