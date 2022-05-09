@@ -8,3 +8,9 @@ Resampling data with `imbalanced-learn` and `scikit-learn` libraries to build, e
 Figure 1.) Oversampling with `RandomOverSampler`
 
 ![](Resources/Fig1.png)
+
+* Oversampling using `RandomOverSampler`: high risk accuracy of 1%, precision 59%; low risk accuracy of 100%, precision 68%.
+
+![](Resources/Fig2.png)
+
+* Oversampling using `SMOTE`: high risk accuracy of 1%, precision 59%; low risk accuracy of 100%, precision 68%.
