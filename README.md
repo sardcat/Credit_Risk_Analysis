@@ -1,3 +1,7 @@
 # Credit Risk Analysis
-Resampling data with `imbalanced-learn` and `scikit-learn` libraries to build and evaluate two new machine learning models `BalancedRandomForestClassifier` and `EasyEnsembleClassifier` to predict credit risk.
+
+## Overview
+Resampling data with `imbalanced-learn` and `scikit-learn` libraries to build, evaluate and compare three Logistic Regression models `RandomOverSampler`, `SMOTE` and `SMOTEENN` with two Ensemble Learners `BalancedRandomForestClassifier` and `EasyEnsembleClassifier` to predict credit risk.
+
+## Results
 
