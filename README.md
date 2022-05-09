@@ -31,3 +31,14 @@ Figure 4.) Undersampling with `SMOTEENN`.
 ![](Resources/Fig4.png)
 
 * Oversampling using `SMOTEENN`: high risk accuracy of 1%, precision 72%; low risk accuracy of 100%, precision 58%.
+
+
+Figure 5.) Ensemble Learner with `BalancedRandomForestClassifier`.
+
+![](Resources/Fig5.png)
+
+* Ensemble Learner using `BalancedRandomForestClassifier`: high risk accuracy of 4%, precision 67%; low risk accuracy of 100%, precision 91%.
+
+
+
+
