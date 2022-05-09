@@ -40,5 +40,9 @@ Figure 5.) Ensemble Learner with `BalancedRandomForestClassifier`.
 * Ensemble Learner using `BalancedRandomForestClassifier`: high risk accuracy of 4%, precision 67%; low risk accuracy of 100%, precision 91%.
 
 
+Figure 6.) Ensemble Learner with `EasyEnsembleClassifier`.
 
+![](Resources/Fig6.png)
+
+* Ensemble Learner using `EasyEnsembleClassifier`: high risk accuracy of 7%, precision 91%; low risk accuracy of 100%, precision 94%.
 
