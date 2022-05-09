@@ -51,3 +51,6 @@ Figure 6.) Ensemble Learner with `EasyEnsembleClassifier`.
 
 * Ensemble Learner using `EasyEnsembleClassifier`: high risk accuracy of 7%, precision 91%; low risk accuracy of 100%, precision 94%.
 
+
+## Summary
+All the models produced an accuracy of 100% for Low Risk identification. With High Risk being the focus for identifying credit risk, the utilization of both Oversampling and Undersampling modfels never yielded an accuracy over 1% or a precision above 75%. Both Ensemble Learners resulted in accuracy for High Risk over 1%, with `EasyEnsembleClassifier` giving the best results with 7% accuracy and 91% precision. Going forward, `EasyEnsembleClassifier` would be recommended in this scenario.
