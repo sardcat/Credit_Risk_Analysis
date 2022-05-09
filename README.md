@@ -16,7 +16,7 @@ Figure 2.) Oversampling with `SMOTE`.
 
 ![](Resources/Fig2.png)
 
-* Oversampling using `SMOTE`: high risk accuracy of 1%, precision 59%; low risk accuracy of 100%, precision 68%.
+* Oversampling using `SMOTE`: high risk accuracy of 1%, precision 60%; low risk accuracy of 100%, precision 66%.
 
 
 Figure 3.) Undersampling with `ClusterCentroids`.
@@ -30,4 +30,4 @@ Figure 4.) Undersampling with `SMOTEENN`.
 
 ![](Resources/Fig4.png)
 
-* Oversampling using `SMOTEENN`: high risk accuracy of 1%, precision 61%; low risk accuracy of 100%, precision 45%.
+* Oversampling using `SMOTEENN`: high risk accuracy of 1%, precision 72%; low risk accuracy of 100%, precision 58%.
